@@ -1,0 +1,60 @@
+{
+  "modules": [
+    {
+      "id": "carte-220-retete",
+      "title": "Carte 220 Rețete Pentru Slǎbire (Biblioteca Digitalǎ Completǎ) — BN FIT",
+      "brand": "BN FIT",
+      "rating": 4.99,
+      "reviewsCount": 70,
+      "priceOriginal": "85,00 €",
+      "priceCurrent": "9,70 €",
+      "sku": "120SANATOS",
+      "images": [
+        "https://picsum.photos/seed/2201/1200/800",
+        "https://picsum.photos/seed/2202/1200/800",
+        "https://picsum.photos/seed/2203/1200/800",
+        "https://picsum.photos/seed/2204/1200/800",
+        "https://picsum.photos/seed/2205/1200/800",
+        "https://picsum.photos/seed/2206/1200/800",
+        "https://picsum.photos/seed/2207/1200/800",
+        "https://picsum.photos/seed/2208/1200/800",
+        "https://picsum.photos/seed/2209/1200/800",
+        "https://picsum.photos/seed/2210/1200/800"
+      ],
+      "description": "Carte cu 220 rețete sănătoase pentru slăbire, parte din Biblioteca Digitală Completă BN FIT. Conține planuri, rețete și recomandări practice."
+    },
+    {
+      "id": "ghid-hormonala",
+      "title": "Ghid De Slabire Si Sanatate Feminina Prin Optimizare Hormonala — BN FIT",
+      "brand": "BN FIT",
+      "rating": 5.0,
+      "reviewsCount": 12,
+      "priceOriginal": "22,00 €",
+      "priceCurrent": "4,70 €",
+      "images": ["https://picsum.photos/seed/horm1/1200/800"],
+      "description": "Ghid de optimizare hormonală pentru sănătatea și slăbirea feminină."
+    },
+    {
+      "id": "ghid-stres",
+      "title": "Ghid Complet – Elimina Stresul și Poftele! (cei 4 piloni ai schimbǎrii pe viațǎ) — BN FIT",
+      "brand": "BN FIT",
+      "rating": 5.0,
+      "reviewsCount": 8,
+      "priceOriginal": "20,37 €",
+      "priceCurrent": "5,67 €",
+      "images": ["https://picsum.photos/seed/stres1/1200/800"],
+      "description": "Ghid practic pentru eliminarea stresului și a poftelor. Bazat pe 4 piloni ai schimbării pe viață."
+    },
+    {
+      "id": "carte-142-retete-post",
+      "title": "Cartea Completă cu 142 de Rețete de Post – Ghid practic pentru un post sănătos și gustos — BN FIT",
+      "brand": "BN FIT",
+      "rating": 4.7,
+      "reviewsCount": 5,
+      "priceOriginal": "85,00 €",
+      "priceCurrent": "7,00 €",
+      "images": ["https://picsum.photos/seed/post1/1200/800"],
+      "description": "Ghid practic cu 142 rețete pentru perioade de post, sănătoase și gustoase."
+    }
+  ]
+}

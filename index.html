@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Biblioteca BN FIT — Preview</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Biblioteca BN FIT</h1>
+    <p>220 de Rețete + Ghiduri Complete — Preview Public</p>
+  </header>
+  <main>
+    <section id="modules-list" class="grid"></section>
+    <section id="module-detail" class="detail hidden"></section>
+  </main>
+
+  <template id="module-card-template">
+    <article class="card">
+      <img class="thumb" src="" alt="">
+      <div class="card-body">
+        <h2 class="title"></h2>
+        <p class="meta"></p>
+        <p class="price"></p>
+        <button class="view-btn">Vezi modul</button>
+      </div>
+    </article>
+  </template>
+
+  <template id="module-detail-template">
+    <div class="detail-card">
+      <button id="back-btn">← Înapoi</button>
+      <h2 id="detail-title"></h2>
+      <p id="detail-meta"></p>
+      <div id="image-gallery" class="gallery" aria-label="Galerie imagini"></div>
+      <p id="detail-desc"></p>
+      <p id="detail-price"></p>
+    </div>
+  </template>
+
+  <script src="/app.js"></script>
+</body>
+</html>
