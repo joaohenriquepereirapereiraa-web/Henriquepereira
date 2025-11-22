@@ -12,7 +12,8 @@
     <p>220 de Rețete + Ghiduri Complete — Preview Public</p>
   </header>
   <main>
-    <section id="modules-list" class="grid"></section>
+    <div id="message" class="message">Se încarcă...</div>
+    <section id="modules-list" class="grid" aria-live="polite"></section>
     <section id="module-detail" class="detail hidden"></section>
   </main>
 
@@ -40,5 +41,9 @@
   </template>
 
   <script src="app.js"></script>
+  <noscript>
+    <style>.grid{display:none}.detail{display:none}</style>
+    <div class="message">JavaScript este necesar pentru a vedea conținutul.</div>
+  </noscript>
 </body>
 </html>
